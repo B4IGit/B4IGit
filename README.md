@@ -1,6 +1,6 @@
 ### Hi, I'm Devin!
 
-🎒 Studying Web Development at Bellevue University<br>
+🎒 Currentlu studying Web Development at Bellevue University for my BA<br>
 ✅ Graduated with an AAS in Web Development from Des Moines Area Community College<br>
 
 <!--
