@@ -1,6 +1,7 @@
 ### Hi, I'm Devin!
 
 🎒 Studying Web Development at Bellevue University<br>
+✅ Graduated with an AAS in web development from Des Moines Area Community College<br>
 
 <!--
 **B4IGit/B4IGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
